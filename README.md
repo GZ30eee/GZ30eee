@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I'm passionate about creating stunning web pages a
 
 I am a dedicated web enthusiast with a strong foundation in web development and design. My goal is to craft delightful user experiences and bring creative ideas to life through code.
 
+## Quick Look
+[![GZ30eee's GitHub | Stats](https://stats.quine.sh/GZ30eee/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GZ30eee)
+
 ## Skills
 
 Here are some of the technologies and languages I'm proficient in:

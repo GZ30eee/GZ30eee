@@ -39,6 +39,10 @@ I'm open to collaboration and always eager to learn from others. If you find any
 
 ## Connect with Me
 
-- LinkedIn: [Ghanshyamsinh Zala](www.linkedin.com/in/ghanshyamsinh-zala-1a1b9924b)
+<a href="https://www.linkedin.com/in/ghanshyamsinh-zala-1a1b9924b" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077b5&color=white" alt="LinkedIn Badge" style="width: 150px; border-radius: 10px; text-decoration: none; font-family: 'Arial', sans-serif; font-size: 14px; font-weight: bold;">
+</a>
 
-Let's build the web together and create amazing experiences! 🚀✨
+---
+
+*Let's build the web together and create amazing experiences! 🚀✨*

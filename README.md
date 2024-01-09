@@ -40,6 +40,8 @@ I am currently working on projects that involve:
 
 I'm open to collaboration and always eager to learn from others. If you find any of my projects interesting or have suggestions for improvement, feel free to reach out!
 
+My mail : ghza3006@gmail.com
+
 ## Connect with Me
 
 <a href="https://www.linkedin.com/in/ghanshyamsinh-zala-1a1b9924b" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">

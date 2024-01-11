@@ -9,6 +9,7 @@ I am a dedicated web enthusiast with a strong foundation in web development and 
 ## Quick Look
 [![GZ30eee's GitHub | Stats](https://stats.quine.sh/GZ30eee/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GZ30eee)
 [![GZ30eee's Stack Overflow | Stats](https://stats.quine.sh/GZ30eee/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GZ30eee)
+[![GZ30eee's GitHub | Languages](https://stats.quine.sh/GZ30eee/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GZ30eee)
 
 ## Skills
 

@@ -46,7 +46,7 @@ I'm open to collaboration and always eager to learn from others. If you find any
 My mail : ghza3006@gmail.com
 
 ## Connect with Me
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/ghanshyamsinh-zala-1a1b9924b)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/ghanshyamsinh-zala-1a1b9924b/)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/ghanshyamsinh_zala__/)
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://www.figma.com/@GZee)
 

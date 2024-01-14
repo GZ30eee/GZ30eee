@@ -6,29 +6,30 @@ Welcome to my GitHub profile! I'm passionate about creating stunning web pages a
 
 I am a dedicated web enthusiast with a strong foundation in web development and design. My goal is to craft delightful user experiences and bring creative ideas to life through code.
 
-## Quick Look
-[![GZ30eee's GitHub | Stats](https://stats.quine.sh/GZ30eee/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GZ30eee)
-[![GZ30eee's Stack Overflow | Stats](https://stats.quine.sh/GZ30eee/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GZ30eee)
-[![GZ30eee's GitHub | Languages](https://stats.quine.sh/GZ30eee/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=GZ30eee)
-
 ## Skills
 
 Here are some of the technologies and languages I'm proficient in:
 
-- **Frontend Development:**
-  - HTML, CSS, Sass
-  - JavaScript (JS), Angular, React
-  - SVG (Scalable Vector Graphics)
+### Frontend Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,angular,react,svg&theme=light)](https://skillicons.dev)
 
-- **Backend Development:**
-  - Node.js, Java, Python
-  - Dart
+### Backend Technologies
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,python,express&theme=light)](https://skillicons.dev)
 
-- **Programming Languages:**
-  - C, C++
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,python,ts&theme=light)](https://skillicons.dev)
 
-- **UI/UX Design:**
-  - Passionate about creating visually appealing and user-friendly interfaces.
+### Mobile Development
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter&theme=light)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
+
+### Design and Prototyping Tools
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev)
+
+### Other Technologies
+[![My Skills](https://skillicons.dev/icons?i=tailwind,powershell,bootstrap&theme=light)](https://skillicons.dev)
 
 ## Current Focus
 
@@ -45,11 +46,8 @@ I'm open to collaboration and always eager to learn from others. If you find any
 My mail : ghza3006@gmail.com
 
 ## Connect with Me
-
-<a href="https://www.linkedin.com/in/ghanshyamsinh-zala-1a1b9924b" target="_blank" style="display: inline-block; background-color: #0077b5; color: white; padding: 10px 15px; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0077b5&color=white" alt="LinkedIn Badge" style="width: 150px; border-radius: 10px; text-decoration: none; font-family: 'Arial', sans-serif; font-size: 14px; font-weight: bold;">
-</a>
-
----
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/ghanshyamsinh-zala-1a1b9924b)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/ghanshyamsinh_zala__/)
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://www.figma.com/@GZee)
 
 *Let's build the web together and create amazing experiences! 🚀✨*

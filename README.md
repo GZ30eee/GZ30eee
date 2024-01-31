@@ -1,5 +1,4 @@
-
-![Ghanshyamsinh Zala](https://github.com/GZ30eee/GZ30eee/assets/130747789/d6278b42-2117-459c-bd41-eb5b67d2ccab)
+# hi, I'm Ghanshyamsinh Zala!! 👋🏼
 
 Welcome to my GitHub profile! I'm passionate about creating stunning web pages and applications, and I love exploring a wide range of technologies. Below, you'll find a bit about me, my skills, and the projects I'm working on.
 

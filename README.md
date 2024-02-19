@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-
-
+    
+  ![welcom](https://github.com/GZ30eee/GZ30eee/assets/130747789/a8022d99-aecf-4a09-9a94-4e422879035b)
 </div>
 
 Welcome to my GitHub profile! I'm a **Web Enthusiast** who is passionate about creating stunning web pages and applications. I love exploring a wide range of technologies and bringing creative ideas to life through code. Here, you'll find a bit about me, my skills, and the projects I'm working on.

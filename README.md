@@ -26,7 +26,7 @@ Here are some of my projects that I'm particularly proud of:
 
 This simple yet powerful tool allows you to generate QR codes for various purposes. Whether you need to share a URL, contact information, or any other data, this application has got you covered.
 
-[View Project](gz30eee.github.io/QR-Code-Generator/)
+[View Project](https://gz30eee.github.io/QR-Code-Generator/)
 
 ---
 

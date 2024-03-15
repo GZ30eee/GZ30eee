@@ -38,8 +38,15 @@ Word Scramble is a fun and challenging game that tests your word knowledge. The 
 
 [View Project](https://gz30eee.github.io/Word-Scramble-Game/)
 
+### Weather Application
 
-in this i want each category side by side or suggest a better way, this becomes for scrolllable:
+![image](https://github.com/GZ30eee/GZ30eee/assets/130747789/5be35d47-d673-4a00-b32f-fe9514d21d96)
+
+This is a simple weather app that fetches and displays current weather data. The app uses the WeatherAPI.com to get the weather data.
+
+[View Project](https://gz30eee.github.io/weather-app/)
+
+
 ## Skills
 
 Here are some of the technologies and languages I'm proficient in:
